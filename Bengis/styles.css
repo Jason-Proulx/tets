@@ -1,0 +1,68 @@
+* {
+    background-color: rgb(238, 97, 15);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+    color:rgb(0, 0, 0);
+    
+}
+.head {
+    font-size: 150px;
+    position:fixed;
+    left:450px;
+   
+}
+img {
+    width:400px;
+    height:220px;
+    border:black 5px; 
+}
+.wins {
+    font-size:50px;
+    position:relative;
+    left:610px;
+}
+.title{
+    position:relative;
+    left:425px;
+    bottom:20px;
+    text-align:center;
+    font-size:40px;
+    line-height:15px;
+    display: inline;
+    margin-right:350px;
+}
+.pass {
+    position:relative;
+    left:425px;
+    top:20px;
+    text-align:center;
+    font-size:30px;
+    margin-right: 369px;
+    display:inline;
+    inset-inline: ;
+}
+.rush {
+    position:relative;
+    left:425px;
+    top:20px;
+    text-align:center;
+    font-size:30px;
+    margin-right: 345px;
+    display:inline;
+    inset-inline: ;
+}
+.overall {
+    position:relative;
+    left:425px;
+    top:20px;
+    text-align:center;
+    font-size:30px;
+    margin-right: 327px;
+    display:inline;
+    inset-inline: ;
+}
+.para {
+    text-align:center;
+    position:relative;
+    top:100px;
+    font-size:30px;
+}
